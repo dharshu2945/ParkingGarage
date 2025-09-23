@@ -1,3 +1,7 @@
+NAME:DHARSHINI.U
+
+ROLL NO:717823D115
+
 PROBLEM STATEMENT:
      This project is a simple yet functional console-based parking garage system. It handles everything from lot configuration and vehicle entry to ticketing, fee calculation, payments, and exits. Built with clean OOP principles—encapsulation, inheritance, aggregation, and polymorphism—this app ensures smooth parking operations and prevents spot conflicts.
 
